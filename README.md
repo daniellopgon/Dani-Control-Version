@@ -2,8 +2,7 @@
   
 Sistema de control de versiones simplificado similar a Git, implementado en Python.  
   
-## Instalación  
-```bash  
+## Instalación   
 pip install -e .
 
 ### Uso
