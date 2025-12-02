@@ -1,2 +1,7 @@
-# Dani-Control-Version
-This repository is an attempt to create my own version compiler.
+# Dani-Control-Version  
+  
+Sistema de control de versiones simplificado similar a Git, implementado en Python.  
+  
+## Instalación  
+```bash  
+pip install -e .
