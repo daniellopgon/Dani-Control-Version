@@ -1,6 +1,6 @@
 # Dani-Control-Version  
   
-Sistema de control de versiones simplificado similar a Git, implementado en Python.  
+Sistema de control de versiones simplificado similar a Git, implementado en Python. Basado en Ugit.
   
 ## Instalación   
 pip install -e .
