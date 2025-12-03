@@ -1,6 +1,8 @@
+README.md
 setup.py
 mygit/__init__.py
 mygit/cli.py
+mygit/data.py
 mygit.egg-info/PKG-INFO
 mygit.egg-info/SOURCES.txt
 mygit.egg-info/dependency_links.txt
