@@ -1,2 +1,0 @@
-[console_scripts]
-mygit = mygit.cli:main
